@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://www.ento.top/static/css/default/img/ipa/logo.jpg</string>
+                   <string>http://www.ento.top/static/css/default/img/ipa/app-iPhone@3x.png</string>
                </dict>
 	       <dict>
                    <key>kind</key>
@@ -27,21 +27,21 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://www.ento.top/static/css/default/img/ipa/logo.jpg</string>
+                   <string>http://www.ento.top/static/css/default/img/ipa/app-iPhone@2x.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
-               <key>bundle-identifier</key>
-               <string>com.yijia.juhuasuan</string>
-               <key>bundle-version</key>
-               <string>1.0.0</string>
-               <key>kind</key>
-               <string>software</string>
-               <key>subtitle</key>
-               <string>SUBTitle</string>
-               <key>title</key>
-               <string>iphoneWorkDemo</string>
-           </dict>
+		<key>bundle-identifier</key>
+		<string>com.daoyoudao.iphoneWorkDemo</string>
+		<key>bundle-version</key>
+		<string>2.0.0</string>
+		<key>kind</key>
+		<string>software</string>
+		<key>subtitle</key>
+		<string>餐饮</string>
+		<key>title</key>
+		<string>标准版</string>
+	    </dict>
        </dict>
    </array>
 </dict>
